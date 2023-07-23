@@ -6,7 +6,7 @@
 
 [takt-equipment](https://github.com/takttusur/takt-equipment) `https://github.com/takttusur/takt-equipment` - сервис для предоставления информации по снаряжению на складе
 
-[takt-events](https://github.com/takttusur/takt-events) `https://github.com/takttusur/takt-events` - сервис предоставляет информацию о событиях клуба
+[takt-media](https://github.com/takttusur/takt-media) `https://github.com/takttusur/takt-media` - сервис предоставляет информацию о событиях клуба и новостях
 
 ## О клубе
 Туристско-альпинистский клуб ТУСУРа основан в 1962 году как секция "Туризма и Альпинизма" (ТиА) при ТИРиЭТе, так назывался тогда ТУСУР. ТИРиЭТе выделился в том году из состава Томского Политехнического Института и перешедшие в новый институт туристы и альпинисты основали секцию.
