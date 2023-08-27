@@ -1,4 +1,6 @@
 # ТАКТ
+[Project board](https://github.com/orgs/takttusur/projects/3)
+
 ## О проектах
 [Onboarding](https://github.com/takttusur/onboarding) `https://github.com/takttusur/onboarding` - вводная часть, список ПО, которое нужно установить и список ресурсов для изучения
 
