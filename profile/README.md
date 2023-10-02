@@ -4,7 +4,7 @@
 ## О проектах
 [Onboarding](https://github.com/takttusur/onboarding) `https://github.com/takttusur/onboarding` - вводная часть, список ПО, которое нужно установить и список ресурсов для изучения
 
-[takt-public](https://github.com/takttusur/takt-public) `https://github.com/takttusur/takt-public` - веб-приложение, которое видят при входе на сайт
+[takt-public](https://github.com/takttusur/takt-public) `https://github.com/takttusur/takt-public` - веб-приложение, которое видят при входе на сайт. Фронтенд, аггрегирующий всю функциональность
 
 [takt-equipment](https://github.com/takttusur/takt-equipment) `https://github.com/takttusur/takt-equipment` - сервис для предоставления информации по снаряжению на складе
 
